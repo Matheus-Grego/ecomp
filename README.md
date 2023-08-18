@@ -1,0 +1,2 @@
+# ecomp
+trabalho de git 
